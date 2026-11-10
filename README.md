@@ -1,3 +1,11 @@
+![Ovia Inc — LangGraph: low-level orchestration framework for building resilient agents](.github/images/logo-light.svg)
+
+> **Ovia Inc fork** — We maintain this fork of [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph), the low-level orchestration framework for building resilient agents — graphs of steps with durable execution, human-in-the-loop points, and state that survives failure, from the LangChain team.
+>
+> **Story:** most agent frameworks hide the control flow; LangGraph exposes it as a graph a team can inspect, interrupt, and resume. That explicitness is what production agent work eventually demands, and it is the orchestration reference the rest of the harness shelf gets measured against. The fork sits on the harness shelf for evaluation in multi-step agent builds. Upstream credit: LangChain. License: MIT (see LICENSE). The upstream project is documented below.
+
+---
+
 <div align="center">
   <a href="https://www.langchain.com/langgraph">
     <picture>
